@@ -1,9 +1,9 @@
-package com.example.SpringCore.component;
+package com.example.SpringBoot2.Component;
 
 import org.springframework.stereotype.Component;
 
 @Component
-public class DemoBean {
+public class DemonBean {
 
     public String sayHello() {
         return "Hello from DemoBean!";
